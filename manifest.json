@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
+  "version": "0.36a",
   "pck_url": "https://github.com/zetsuichi/tc/releases/download/patch/0.36a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "Patch 1.5.4",
+  "notes": "Patch 0.36a",
   "sha256": ""
 }
