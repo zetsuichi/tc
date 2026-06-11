@@ -2,6 +2,6 @@
   "version": "0.36a",
   "pck_url": "https://github.com/zetsuichi/tc/releases/download/patch/0.36a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "Patch 0.36a",
+  "notes": "Patch 0.36a - mała poprawka pozwalająca na późniejsze pobieranie aplikacji.",
   "sha256": ""
 }
