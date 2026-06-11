@@ -1,6 +1,6 @@
 {
   "version": "1.5.4",
-  "pck_url": "https://twoj-login.github.io/tc/patches/tc_1_5_4.pck",
+  "pck_url": "https://github.com/zetsuichi/tc/releases/download/patch/0.36a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Patch 1.5.4",
   "sha256": ""
