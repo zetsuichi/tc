@@ -1,5 +1,5 @@
 {
-  "version": "0.371a",
+  "version": "0.38a",
   "pck_url": "https://github.com/zetsuichi/tc/releases/download/0.37a/0.37a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Patch 0.37a - cały moduł patchera oraz mniejsze poprawki",
