@@ -1,7 +1,7 @@
 {
-  "version": "0.38a",
-  "pck_url": "https://github.com/zetsuichi/tc/releases/download/0.38a/0.38a.pck",
+  "version": "0.38.1a",
+  "pck_url": "https://github.com/zetsuichi/tc/releases/download/0.38.1a/0.38.1a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "- Cały moduł patchera oraz mniejsze poprawki\n- Kolejne optymalizacje Archiwum dowodów oraz poszlak\n- Zmiana wyglądu autopatchera.",
+  "notes": "- Cały moduł patchera oraz mniejsze poprawki\n- Kolejne optymalizacje Archiwum dowodów oraz poszlak\n- Zmiana wyglądu autopatchera\n- Build zawiera teraz zestaw kości\n- Naprawiono problem z rzutami kostką",
   "sha256": ""
 }
