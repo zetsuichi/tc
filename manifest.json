@@ -2,6 +2,6 @@
   "version": "0.39a",
   "pck_url": "https://github.com/zetsuichi/tc/releases/download/0.39a/0.39a.pck",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "- Nowy, odświeżony wygląd patchera, menu głównego oraz ekranu gracza nawiązujący do tego jak finalnie będzie wyglądać aplikacja\n- Poprawa silnika obsługującego kości pod względem rzutów oraz wyglądu\n- Poprawienie systemu podnoszenia ręki\n- Dodano rzuty ukryte zarówno dla MG jak i Graczy\n- Dodano 5 motywów kości\n- Zmiany w prezentacji avatarów bohatera\n- I więcej...",
+  "notes": "- Nowy, odświeżony wygląd patchera, menu głównego oraz ekranu gracza nawiązujący do tego jak finalnie będzie wyglądać aplikacja\n- Poprawa silnika obsługującego kości pod względem rzutów oraz wyglądu\n- Poprawienie systemu podnoszenia ręki\n- Dodano rzuty ukryte zarówno dla MG jak i Graczy\n- Dodano 5 motywów kości\n- Zmiany w prezentacji avatarów bohatera\n- 35 nowych avatarów\n- Przebudowany ekran opcji i ustawień\n- Poprawki w systemie Archiwum Dowodów. Dodano zabezpieczenia przed desynchronizacją\n- zmieniona prezentacja stanów bohatera (agonia, nieprzytomny itd)",
   "sha256": "4CD5F615F6A8365267AABA41E7CD3FCC15D7B403DF46D0FC525AB43949849DFD"
 }
