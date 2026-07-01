@@ -3,7 +3,7 @@
   "base_version": "0.39a",
   "latest_version": "0.39.4a",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "Nowy, odświeżony wygląd patchera, menu głównego oraz ekranu gracza, nawiązujący do finalnej wersji aplikacji.\n- Wdrożono nowy silnik odpowiedzialny za obsługę kości.\n- Usprawniono system podnoszenia ręki.\n- Dodano możliwość wykonywania rzutów ukrytych zarówno przez Mistrza Gry, jak i graczy.\n- Dodano pięć nowych motywów kości.\n- Zmieniono sposób prezentacji avatarów bohaterów.\n- Trwają prace nad zestawem 80 nowych avatarów w wersji finalnej. Obecny postęp: 35 z 80.\n- Przebudowano ekran opcji i ustawień.\n- Dodano możliwość wyboru pomiędzy trybem okienkowym a pełnoekranowym.\n- Dodano możliwość włączania i wyłączania animacji avatarów.\n- Dodano możliwość włączania i wyłączania dźwięków kliknięć.\n- Wprowadzono skróty klawiszowe dla wybranych paneli gracza.\n- Wprowadzono poprawki w systemie Archiwum Dowodów oraz dodano zabezpieczenia zapobiegające desynchronizacji.\n- Zmieniono sposób prezentacji stanów bohatera, takich jak agonia, nieprzytomność i inne efekty.\n- Dodano sekret!",
+  "notes": "Najnowsza wersja - 0.39.4a",
   "patches": [
     {
       "version": "0.39.1a",
