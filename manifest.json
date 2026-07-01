@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "base_version": "0.39a",
-  "latest_version": "0.39.2a",
+  "latest_version": "0.39.3a",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Najnowsza wersja zawiera poprawki 0.39.1a oraz 0.39.2a",
   "patches": [
@@ -16,6 +16,12 @@
       "requires": "0.39.1a",
       "url": "https://github.com/zetsuichi/tc/releases/download/0.39.2a/0.39.2a.pck",
       "sha256": "cb6c446f1d2caac9529db3348f05d4113ca450d2baebae9fe53eedfc239bc732"
+    },
+    {
+      "version": "0.39.3a",
+      "requires": "0.39.2a",
+      "url": "https://github.com/zetsuichi/tc/releases/download/0.39.3a/0.39.3a.pck",
+      "sha256": "e8994ecd147c1247893df4166fda42a88550883e28f4b293195772e15fc48e1b"
     }
   ]
 }
