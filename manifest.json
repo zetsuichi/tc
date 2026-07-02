@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "base_version": "0.39.4a",
+  "base_version": "0.39.45a",
   "latest_version": "0.39.46a",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Najnowsza wersja alpha - 0.39.46a",
   "patches": [
        {
       "version": "0.39.46a",
-      "requires": "0.39.4a",
+      "requires": "0.39.45a",
       "url": "https://github.com/zetsuichi/tc/releases/download/0.39.46a/0.39.46a.pck",
       "sha256": "27e0057b34a6f93197d5a095ea6bb257ccbf770bf1c7a93b17ad7fcb8294daa0"
     }
