@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "base_version": "0.39.45aa",
+  "base_version": "0.39.45a",
   "latest_version": "0.39.46a",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Najnowsza wersja alpha - 0.39.46a",
