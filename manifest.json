@@ -3,7 +3,7 @@
   "base_version": "0.39.4a",
   "latest_version": "0.39.47a",
   "entry_scene": "res://Scenes/Intro.tscn",
-  "notes": "Najnowsza wersja alpha - 0.39.46a",
+  "notes": "Najnowsza wersja alpha - 0.39.47a",
   "patches": [
        {
       "version": "0.39.46a",
