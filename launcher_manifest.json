@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "latest_version": "0.4a",
-  "notes": "Pełne wydanie Tentacle Codex 0.4a",
+  "notes": "Pełne wydanie Tentacle Codex 0.4a - nowe wydanie",
   "archive": {
     "url": "https://github.com/zetsuichi/tc/releases/download/0.4afull/0.4a.full.zip",
     "sha256": "89c5eba22ebb6693a02ad89a3e86c143877ef917c61b34dc906e8e6829562388",
