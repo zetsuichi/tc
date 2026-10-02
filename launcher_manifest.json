@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "0.4a",
-  "notes": "Pełne wydanie Tentacle Codex 0.4a - nowe wydanie",
+  "latest_version": "0.411a",
+  "notes": "Pełne wydanie Tentacle Codex 0.42a - nowe wydanie",
   "archive": {
-    "url": "https://github.com/zetsuichi/tc/releases/download/0.4afull/0.4a.full.zip",
-    "sha256": "89c5eba22ebb6693a02ad89a3e86c143877ef917c61b34dc906e8e6829562388",
+    "url": "https://github.com/zetsuichi/tc/releases/download/base4.1.1a/Tentacle.Codex.zip",
+    "sha256": "719fda74bd4658ec2272b14b832107a6f6345c103764f4828119f5ea91e9cbf4",
     "size_bytes": 0,
     "root_dir": "",
     "executable": "Tentacle Codex.exe"
