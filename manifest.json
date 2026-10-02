@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "base_version": "0.411a",
-  "latest_version": "0.42a",
+  "latest_version": "0.42.1a",
   "entry_scene": "res://Scenes/Intro.tscn",
   "notes": "Najnowsza wersja alpha - 0.42a",
   "patches": [
        {
-      "version": "0.42a",
+      "version": "0.42.1a",
       "requires": "0.411a",
-      "url": "https://github.com/zetsuichi/tc/releases/download/0.42a/0.42a.pck",
+      "url": "https://github.com/zetsuichi/tc/releases/download/0.42.1a/0.42a.pck",
       "sha256": "ff24a0165b13b0c305553031b06385c6f5f522f82b7de041e1094b83b98c7098"
     }
   ]
